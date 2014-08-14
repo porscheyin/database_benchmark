@@ -1,6 +1,6 @@
 /* 
  * File:   sqlite_benchmark.c
- * Author: Fei Li
+ * Author: Yin Zhang & Fei Li
  *
  * Created on April 2, 2014, 5:18 PM
  */
