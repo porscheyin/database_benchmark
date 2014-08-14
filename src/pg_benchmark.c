@@ -1,6 +1,6 @@
 /* 
  * File:   pg_benchmark.h
- * Author: Qiulin Li
+ * Author: Yin Zhang & Qiulin Li
  *
  * Created on April 10, 2014, 9:23 AM
  */
